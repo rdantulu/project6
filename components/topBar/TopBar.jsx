@@ -20,7 +20,7 @@ class TopBar extends React.Component {
           <Grid container spacing={0}>
             <Grid item xs={3}>
               <Typography variant="h5" color="inherit">
-                Group-5 Team
+                Group-4 Team
               </Typography>
             </Grid>
             <Grid item xs={9}>
