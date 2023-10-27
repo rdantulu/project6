@@ -1,0 +1,6 @@
+.topbar-appBar {
+  height: 60;
+  /* position: relative; */
+  display:flex;
+  /* justify-content: 'center'; */
+}
